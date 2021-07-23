@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "681721047345",
+    "project_id": "instifit-b1139",
+    "storage_bucket": "instifit-b1139.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681721047345:android:206bda2e969a69d71f2810",
+        "android_client_info": {
+          "package_name": "com.example.instifit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681721047345-1vujjfnck2vgthqrbeoibmv2798mkp3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxKxT6_035Af5vRZ52FrZkeX_XjUShEUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681721047345-1vujjfnck2vgthqrbeoibmv2798mkp3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
